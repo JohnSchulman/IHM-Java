@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <FirstName>f1</FirstName>
+    <LastName>l1</LastName>
+  </Contact>
+  <Contact>
+    <FirstName>f2</FirstName>
+    <LastName>l2</LastName>
+  </Contact>
+  <Contact>
+    <FirstName>f3</FirstName>
+    <LastName>l3</LastName>
+  </Contact>
+  <Contact>
+    <FirstName>f4</FirstName>
+    <LastName>l4</LastName>
+  </Contact>
+</ArrayOfContact>
